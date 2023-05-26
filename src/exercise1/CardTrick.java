@@ -46,6 +46,7 @@ public class CardTrick {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
+	    // This comment for question 6.
         
         System.out.println("My name is Paul, but you can call me prof, Paul or sir");
         System.out.println();
