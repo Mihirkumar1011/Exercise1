@@ -42,6 +42,7 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      
      * this is edited versiton comment
+     *I'm done.
      */
     private static void printInfo() {
     
